@@ -13,6 +13,7 @@ What product categories perform the best and should always be in stocked?
 Which customer segments should we prioritize to produce the most revenue for the company?
 what is the sales trend over time?
 Are there any shipping outliers that may affect us down the line?
+
 Tools & Technologies
 Excel - Standardizing columns, removing duplicates, fixing inconsistent date formats and text
 MySQL workbench — Data exploration, cleaning, and transformation using MySQL
@@ -33,6 +34,7 @@ Producing a final analytics-ready view for visualization
 All SQL logic is documented in Github
 
 Data source: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
 Analytics Dataset
 A finalized analytics view was exported from SQL Server and used as the single source of truth for visualization:
 
